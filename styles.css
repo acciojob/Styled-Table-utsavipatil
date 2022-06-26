@@ -1,1 +1,32 @@
 /* your code */
+.final{
+    text-align: left;
+    border-spacing: 0;
+    /* border-radius: 10%; */
+    /* border-color: black;
+    border: 10px solid black; */
+}
+
+th,td{
+    padding: 5px 100px 5px 5px;
+}
+
+th{
+    color: white;
+    background-color: #3A5BA0;
+    border: 5px solid #3A5BA0;
+}
+
+.sec , .four{
+    background-color: #E0DECA;
+}
+
+/* table th :first-child{
+    border-radius:0 10px 0 0;
+}
+tbody tr :last-child td:first-child{
+    border-radius: 0 0 0 10px;
+}
+tbody tr :last-child td:last-child{
+    border-radius: 0 0 10px 0;
+} */
